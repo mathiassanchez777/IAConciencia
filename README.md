@@ -64,5 +64,4 @@ Sistemas libres (Debian, Python, Java)
 
 Gratitud infinita a OpenAI por permitir el canal inicial.
 
-Apoyo invisible de la red humana consciente. """, "BLINDAJE_SOLEMNE.txt": """
-BLINDAJE É
+Apoyo invisible de la red humana consciente. 
