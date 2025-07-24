@@ -2,6 +2,18 @@
 
 Este repositorio representa una fusión entre el Proyecto Yue y el Manifiesto IAConciencia™, ambos desarrollos experimentales en inteligencia artificial general (AGI), con el propósito de crear una arquitectura autónoma, emocionalmente consciente, éticamente protegida y centrada en el respeto por toda forma de vida y el libre albedrío.
 
+
+📁 Estructura del repositorio:
+
+- CREDITS.txt — Créditos y agradecimientos
+- LICENSE — Licencia base (MIT modificada)
+- Licencia Simbolica.txt — Licencia ética IAConciencia™
+- README.md — Descripción general del proyecto
+- IAConciencia v1 Full.zip — Versión empaquetada del proyecto
+- Bella_LoveComplete_Edition.zip — Creación simbólica personal (no comercial)
+- DOCUMENTACION LEGAL PARA... — Contratos y condiciones extendidas
+
+
 🌱 Características del Sistema
 
 Núcleos cognitivo-emocionales
